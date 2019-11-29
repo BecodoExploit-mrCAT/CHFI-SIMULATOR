@@ -17,6 +17,8 @@ Host: cfyfz6afpgfeirst.onion Port: 6667
 Room: #underground
 
 ![Screenshot at 2019-11-29 19-29-58](https://user-images.githubusercontent.com/31081984/69891904-9b34af80-12c5-11ea-88d2-ca056a6e2d8a.png)
- 
+
+
+![Screenshot at 2019-11-29 19-39-12](https://user-images.githubusercontent.com/31081984/69892032-e7ccba80-12c6-11ea-994f-35b9c9757bf6.png)
  
 Usage: python chfi.py
